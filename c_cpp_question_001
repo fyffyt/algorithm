@@ -1,0 +1,20 @@
+please give a discription of the difference between A & B
+
+struct A {
+    bool a;
+public:
+    int b;
+private:
+    char c;
+    unsigned d;
+};
+
+class B {
+    int b;
+public:
+    unsigned d;
+private:
+    bool a;
+    char c;
+};
+
